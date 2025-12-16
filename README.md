@@ -20,7 +20,7 @@ This is a responsive React component for registering users to **Coding Conf 2025
 
 ![Conference ticket generator screenshot](./screenshot.jpg)
 
-LIVE: https://dzik0.github.io/conference-ticket-generator/
+LIVE: https://p-glazowski.github.io/conference-ticket-generator/
 
 ## 🛠️ Technologies Used
 
@@ -34,7 +34,7 @@ LIVE: https://dzik0.github.io/conference-ticket-generator/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/conf-registration-form.git
+   git clone https://github.com/p-glazowski/conf-registration-form.git
    ```
 
 2. Navigate to the project directory:
